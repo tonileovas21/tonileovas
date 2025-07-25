@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: wanna be Networking and Cyber security<br>🎲 Fun fact: I am learning about cyber security by my self on the internet</p>
+<p align="left">✨ Creating bugs .<br>📚 I'm currently study in institute of bussines (iob) teknik informatik departament<br>🎯 Goals: wanna be Networking and Cyber security<br>🎲 Fun fact: I am learning about cyber security by my self on the internet</p>
 
 ###
 
